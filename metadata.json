@@ -1,0 +1,8 @@
+{
+  "name": "Riyadah ERP",
+  "description": "An advanced, multi-currency, multi-branch ERP and accounting system with real-time analytics, inventory management, invoice generation, and thermal printing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
